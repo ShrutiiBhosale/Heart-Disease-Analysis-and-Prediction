@@ -25,6 +25,7 @@ The dataset used in this project contains several features related to patient he
 * Logistic Regression
 * K-nearest Neighbors
 * Random Forest
+  
 The final model will be selected based on its performance on the validation set and other evaluation metrics.
 ## Installation
 ->Install Jupyter Notebook
